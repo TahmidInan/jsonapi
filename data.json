@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "price": "$1,499.00",
+      "picture": "https://images.pexels.com/photos/1103484/pexels-photo-1103484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Foundation Course",
+      "about": "Develop Foundational skills critical for business via Structured Business Frameworks, Case-studies, and in-depth Video Tutorials that support the unique needs of Entrepreneurs and Solopreneurs."
+    },
+    {
+      "id": 1,
+      "price": "$3,599.00",
+      "picture": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Specialization",
+      "about": "Our Specialized courses are directly linked to your unique business burning problems and are delivered through a range of virtual and in-person blended formats."
+    },
+    {
+      "id": 2,
+      "price": "$3,999.00",
+      "picture": "https://images.pexels.com/photos/4195501/pexels-photo-4195501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Value Packs",
+      "about": "Build the entrepreneurial leadership skills you need to take your business through its next phase of growth and success with our Exclusive Value Packs that are customized to solve all your burning problems."
+    },
+    {
+      "id": 3,
+      "price": "$3,599.00",
+      "picture": "https://images.pexels.com/photos/3205570/pexels-photo-3205570.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Corporate Finance",
+      "about": "We diagnose, understand, design, develop and implement the improvements needed. We make change happen, generating significant results for your company. Once achieved we monitor and audit the results to ensure your business continues to evolve."
+    },
+    {
+      "id": 4,
+      "price": "$2,249.00",
+      "picture": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Audit Transaction",
+      "about": "The course is hugely interactive with projects, checklists & actionable lectures built into every section. Learn step by step how to market a business online from scratch across all the major marketing channels."
+    },
+    {
+      "id": 5,
+      "price": "$2,499.00",
+      "picture": "https://images.pexels.com/photos/1367269/pexels-photo-1367269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Business Analysis",
+      "about": "With over 20 hours of training, quizzes and practical steps you can follow - this is one of the most comprehensive digital marketing courses available. We'll cover SEO, YouTube Marketing, Facebook Marketing, Google Adwords, Google Analytics and more!"
+    },
+    {
+      "id": 6,
+      "price": "$3,249.00",
+      "picture": "https://images.pexels.com/photos/90333/pexels-photo-90333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Capital Markets",
+      "about": "Marketing courses teach strategies for influencing customer behavior throughout the customer lifecycle. Learn fundamentals like creating a marketing strategy, brand building, advertising and budget allocation, and leveraging digital and social media channels to reach your business goals."
+    },
+    {
+      "id": 7,
+      "price": "$2,499.00",
+      "picture": "https://images.pexels.com/photos/776615/pexels-photo-776615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Partnership System ",
+      "about": "Master the basics of digital marketing with our Interactive Advertising Bureau-accredited course. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+      "id": 8,
+      "price": "$1,499.00",
+      "picture": "https://images.pexels.com/photos/5668842/pexels-photo-5668842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Recession Strategies",
+      "about": "A better recession strategy is to invest in well-managed companies that have low debt, good cash flow, and strong balance sheets. Counter-cyclical stocks do well in a recession and experience price appreciation despite the prevailing economic headwinds."
+    }
+  ]
